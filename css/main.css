@@ -134,7 +134,7 @@ section.closed .section-content {
 }
 
 .section-content {
-  background: #B3E6E2;
+  background: #B6A3E0;
   color: black;
   padding:15px;
   overflow:hidden;
@@ -195,7 +195,7 @@ th,td {
 
 .fa-asterisk{
   float:right;
-  color:#B3E6E2;
+  color:#B6A3E0;
 }
 
 @media(max-width: 1064px){
