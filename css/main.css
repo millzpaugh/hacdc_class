@@ -53,6 +53,12 @@ span.subheader{
   font-size: 14px; 
 }
 
+span.katie{
+  float:right;
+  font-size: 10px;
+  margin-right:10px;
+}
+
 nav li{
   list-style-type: none;
 }
