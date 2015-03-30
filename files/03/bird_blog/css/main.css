@@ -1,0 +1,41 @@
+body{
+	font-family:'Arial';
+}
+
+header{
+	text-align: center;
+	background: url('../images/ksart2.jpg');
+	background-size: cover;
+	color:white;
+}
+
+h1{
+	font-size:60px;
+}
+
+img{
+	margin-top:40px;
+	border-radius:20px;
+	border:4px black solid;
+}
+
+article{
+	max-width:500px;
+	padding:20px;
+	margin: 0 auto;
+}
+
+ul{
+ padding:10px;
+ background-color:rgba(0,0,0,.5);
+}
+
+li{
+	display:inline;
+	padding:0px 10px 0px 10px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
